@@ -1,0 +1,3 @@
+id,sensors,model,status,healthscore,name,image,specifications,metrics,unitId,companyId
+1,GSJ1535,motor,inAlert,70,Motor H13D-1,https://tractian-img.s3.amazonaws.com/6d5028682016cb43d02b857d4f1384ae.jpeg,[object Object],[object Object],1,1
+2,IBS1636,inDowntime,73.7,motor,Motor H12D-1,https://tractian-img.s3.amazonaws.com/dc8a497655c688ce381d6a3ba4af684d.jpeg,[object Object],[object Object],1,1

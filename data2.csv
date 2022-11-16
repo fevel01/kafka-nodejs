@@ -1,0 +1,6 @@
+id,sensors,status,healthscore,model,name,image,metrics,specifications,unitId,companyId
+5,NBX2120,inAlert,60.4,fan,Ventilador D21,https://tractian-img.s3.amazonaws.com/16fbd9f50d3c6cfca8c6c2bc834ac0f0.jpeg,[object Object],[object Object],2,1
+6,MOE1378,inDowntime,91.2,fan,Ventilador D22,https://tractian-img.s3.amazonaws.com/2f7eb04cfa255ab00088534f7d51f6f4.jpeg,[object Object],[object Object],2,1
+7,MYS2173,inAlert,53.8,fan,Ventilador D23,https://tractian-img.s3.amazonaws.com/1c588f23dc92a7b97975a10757dd0435.jpeg,[object Object],[object Object],2,1
+8,HPO6412,inAlert,76.12,fan,Ventilador D24,https://tractian-img.s3.amazonaws.com/19f526bc0f39fcf451de4098f48cd7d1.jpeg,[object Object],[object Object],2,1
+9,BMS9149,inAlert,66.09,fan,Ventilador D25,https://tractian-img.s3.amazonaws.com/28a89d706a3ef5579da321896b9d0da6.jpeg,[object Object],[object Object],2,1
